@@ -1,2 +1,1 @@
-# edw
-Eighteen Degree Monitoring web page
+# Eighteen Degree Monitoring web page
